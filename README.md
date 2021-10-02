@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aharnish dwivedi</h1>
+<h1 align="center">Hi 👋, I'm Aharnish Dwivedi</h1>
 <h3 align="center">A ML/DL enthusisast from India</h3>
 
 
